@@ -37,7 +37,7 @@ Examples:
 chmod u+x file     # add execute for the owner
 chmod g-w file     # remove write from the group
 chmod o=r file     # others can only read
-
+```
 ---
 
 Were are some additional examples:
